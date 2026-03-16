@@ -17,10 +17,7 @@ The application detects hand gestures through a webcam, processes the captured f
 -Suggestion system for possible corrections
 
 # Tech Stack
--Python
--OpenCV
--TensorFlow / Keras
--NumPy
+-Python-OpenCV-TensorFlow / Keras-NumPy
 
 # How It Works
 -The webcam captures live video frames.
